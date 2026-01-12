@@ -1,8 +1,6 @@
-# Causal Copilot
+# DSC180B Quarter 2 Project
 
-Laura Diaz Rodriguez
-David Oh
-Yijun 
+---
 
 # Running the Project Using Docker
 
